@@ -1,0 +1,66 @@
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+C:\Users\DW\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+D:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+D:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+D:\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+D:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+F:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+F:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+F:\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+F:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+E:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+E:\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+E:\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+E:\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+C:\Users\DW7\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.exe
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.pdb
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.exe
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\bin\Debug\FoundationClass.pdb
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmdoit.resources
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmexammoveit.resources
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmain.resources
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Frmmoveit.resources
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.Properties.Resources.resources
+C:\Users\May Oo\Documents\Visual Studio 2005\Projects\CsharpProject\FoundationClass\obj\Debug\FoundationClass.csproj.GenerateResource.Cache
